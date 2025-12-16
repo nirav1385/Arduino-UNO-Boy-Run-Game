@@ -50,4 +50,5 @@ Make sure to connect the components exactly as defined in the `game_in_c.ino` fi
 
 ## 👨‍💻 Author
 **[Jain Nirav]**
-*Student, [Electroni & Communication Department/GEC Gandhinagar, secttor-28]*
+
+*Student, [Electroni & Communication Department/GEC Gandhinagar, sector-28]*
