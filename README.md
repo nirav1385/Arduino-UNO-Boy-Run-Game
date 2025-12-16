@@ -49,6 +49,7 @@ Make sure to connect the components exactly as defined in the `game_in_c.ino` fi
 * `schematic_view.jpg`: Technical schematic of the connections.
 
 ## 👨‍💻 Author
-**[Jain Nirav]**
+**Jain Nirav**
 
-*Student, [Electroni & Communication Department/GEC Gandhinagar, sector-28]*
+*Student, Electroni & Communication Department/GEC Gandhinagar, sector-28*
+
